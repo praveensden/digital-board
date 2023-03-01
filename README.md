@@ -1,4 +1,5 @@
-Etch-A-Sketch
+# Etch-A-Sketch
+
 This is a simple web application that allows you to draw using arrow keys on an Etch-A-Sketch-like canvas. You can also clear the canvas by clicking on the "Shake" button.
 
 Getting Started
